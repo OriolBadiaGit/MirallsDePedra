@@ -2761,3 +2761,287 @@ FPackageName: Skipped package /Game/ASSETS/Maps/LVL1/Interior_Campanar/Cube_032 
 [2025.11.19-11.53.09:865][602]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2108.696777
 [2025.11.19-11.53.10:866][605]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.19-11.53.10:866][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2109.363770, Update Interval: 300.221558
+[2025.11.19-11.54.25:608][ 88]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.19-11.55.29:143][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.11.19-11.55.29:146][259]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/InteriorCampanar' took 0.030
+[2025.11.19-11.55.29:146][259]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLUEPRINTS/BP_DoorInterior] ([2] browsable assets)...
+[2025.11.19-11.55.29:146][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS/BP_DoorInterior]
+[2025.11.19-11.55.29:155][259]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/BP_DoorInterior_Auto2
+[2025.11.19-11.55.29:155][259]LogSavePackage: Moving 'C:/VFC Unreal Engine 5/MirallsDePedra/Miralls_de_Pedra/Saved/BP_DoorInterior_Auto28A4A100B4BEECBCBCB2F82BB9D19DF30.tmp' to 'C:/VFC Unreal Engine 5/MirallsDePedra/Miralls_de_Pedra/Saved/Autosaves/Game/BLUEPRINTS/BP_DoorInterior_Auto2.uasset'
+[2025.11.19-11.55.29:156][259]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BLUEPRINTS/BP_UserInterfaceInteractionInteriorCampanar] ([2] browsable assets)...
+[2025.11.19-11.55.29:161][259]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BLUEPRINTS/BP_UserInterfaceInteractionInteriorCampanar.BP_UserInterfaceInteractionInteriorCampanar]
+[2025.11.19-11.55.29:161][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS/BP_UserInterfaceInteractionInteriorCampanar]
+[2025.11.19-11.55.29:165][259]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/BP_UserInterfaceInteractionInteriorCampanar_Auto2
+[2025.11.19-11.55.29:165][259]LogSavePackage: Moving 'C:/VFC Unreal Engine 5/MirallsDePedra/Miralls_de_Pedra/Saved/BP_UserInterfaceInteractionInter3E3BC63642A3A6999E3E86BCA4BC047A.tmp' to 'C:/VFC Unreal Engine 5/MirallsDePedra/Miralls_de_Pedra/Saved/Autosaves/Game/BLUEPRINTS/BP_UserInterfaceInteractionInteriorCampanar_Auto2.uasset'
+[2025.11.19-11.55.29:167][259]LogFileHelpers: Auto-saving content packages took 0.021
+[2025.11.19-11.56.30:396][499]LogFbx: Loading FBX Scene from C:/VFC Unreal Engine 5/MirallsDePedra/Miralls_de_Pedra/Content/ASSETS/Maps/LVL1/Interior_Campanar/Interior campanar.fbx
+[2025.11.19-11.56.30:419][499]LogFbx: FBX Scene Loaded Succesfully
+[2025.11.19-11.56.34:358][499]LogSlate: Window 'FBX Scene Reimport Options' being destroyed
+[2025.11.19-11.56.34:498][499]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETS/Maps/LVL1/Interior_Campanar/Cube_033.Cube_033
+[2025.11.19-11.56.34:521][499]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETS/Maps/LVL1/Interior_Campanar/Cube_035.Cube_035
+[2025.11.19-11.56.34:581][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.19-11.56.34:681][499]LogFbx: Loading FBX Scene from C:/VFC Unreal Engine 5/MirallsDePedra/Miralls_de_Pedra/Content/ASSETS/Maps/LVL1/Interior_Campanar/Interior campanar.fbx
+[2025.11.19-11.56.34:687][499]LogFbx: FBX Scene Loaded Succesfully
+[2025.11.19-11.56.36:506][499]LogSlate: Window 'FBX Scene Reimport Options' being destroyed
+[2025.11.19-11.56.36:640][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.19-11.56.36:676][499]LogFbx: Loading FBX Scene from C:/VFC Unreal Engine 5/MirallsDePedra/Miralls_de_Pedra/Content/ASSETS/Maps/LVL1/Interior_Campanar/Interior campanar.fbx
+[2025.11.19-11.56.36:682][499]LogFbx: FBX Scene Loaded Succesfully
+[2025.11.19-11.56.40:670][499]LogSlate: Window 'FBX Scene Reimport Options' being destroyed
+[2025.11.19-11.56.40:847][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-11.56.40:918][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Maps/LVL1/Interior_Campanar/Cube_033] ([1] browsable assets)...
+[2025.11.19-11.56.40:929][500]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ASSETS/Maps/LVL1/Interior_Campanar/Cube_033.Cube_033]
+[2025.11.19-11.56.40:929][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Maps/LVL1/Interior_Campanar/Cube_033]
+[2025.11.19-11.56.40:932][500]LogSavePackage: Moving output files for package: /Game/ASSETS/Maps/LVL1/Interior_Campanar/Cube_033
+[2025.11.19-11.56.40:933][500]LogSavePackage: Moving 'C:/VFC Unreal Engine 5/MirallsDePedra/Miralls_de_Pedra/Saved/Cube_033D6ED722D479B657CA07BB8A16A213EC0.tmp' to 'C:/VFC Unreal Engine 5/MirallsDePedra/Miralls_de_Pedra/Content/ASSETS/Maps/LVL1/Interior_Campanar/Cube_033.uasset'
+[2025.11.19-11.56.40:960][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.280 ms (total: 964.215 ms)
+[2025.11.19-11.56.41:059][501]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-11.56.41:060][501]LogContentValidation: Enabled validators:
+[2025.11.19-11.56.41:060][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-11.56.41:060][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-11.56.41:060][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-11.56.41:060][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-11.56.41:060][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-11.56.41:060][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-11.56.41:060][501]AssetCheck: /Game/ASSETS/Maps/LVL1/Interior_Campanar/Cube_033 Validating asset
+[2025.11.19-11.56.43:566][691]LogSlate: Window 'Message Log' being destroyed
+[2025.11.19-11.56.43:593][691]LogSlate: Window 'Message Log' being destroyed
+[2025.11.19-11.56.43:961][718]AssetReimport: Reimported asset Cube_033 from C:/VFC Unreal Engine 5/MirallsDePedra/Miralls_de_Pedra/Content/ASSETS/Maps/LVL1/Interior_Campanar/Interior campanar.fbx.
+[2025.11.19-11.56.43:961][718]AssetReimport: Reimported asset Cube_035 from C:/VFC Unreal Engine 5/MirallsDePedra/Miralls_de_Pedra/Content/ASSETS/Maps/LVL1/Interior_Campanar/Interior campanar.fbx.
+[2025.11.19-11.56.43:961][718]AssetReimport: Error: Failed to reimport asset Interior_campanar.
+[2025.11.19-11.57.08:686][722]LogStaticMesh: Warning: Cube_035 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.11.19-11.57.08:686][722]LogStaticMesh: Warning: Cube_035 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.11.19-11.57.11:042][921]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.19-11.57.11:067][921]LogStaticMesh: Display: Building static mesh Cube_033 (Required Memory Estimate: 0.052538 MB)...
+[2025.11.19-11.57.11:068][921]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETS/Maps/LVL1/Interior_Campanar/Cube_033.Cube_033
+[2025.11.19-11.57.11:068][921]LogStaticMesh: Warning: Cube_033 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.11.19-11.57.11:068][921]LogStaticMesh: Warning: Cube_033 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.11.19-11.57.11:071][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.19-11.57.11:072][921]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_InteriorCampanar
+[2025.11.19-11.57.11:074][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002046s)
+[2025.11.19-11.57.11:074][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/InteriorCampanar.InteriorCampanar to /Game/Maps/UEDPIE_0_InteriorCampanar.InteriorCampanar (0.002094s)
+[2025.11.19-11.57.11:115][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.11.19-11.57.11:117][921]LogChaosDD: Creating Chaos Debug Draw Scene for world InteriorCampanar
+[2025.11.19-11.57.11:118][921]LogPlayLevel: PIE: World Init took: (0.001943s)
+[2025.11.19-11.57.11:119][921]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.11.19-11.57.11:120][921]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.19-11.57.11:120][921]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.19-11.57.11:120][921]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.19-11.57.11:120][921]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.19-11.57.11:120][921]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.19-11.57.11:120][921]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.19-11.57.11:120][921]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.19-11.57.11:120][921]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.19-11.57.11:120][921]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.19-11.57.11:120][921]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.19-11.57.11:120][921]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.19-11.57.11:123][921]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.19-11.57.11:166][921]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.11.19-11.57.11:166][921]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.19-11.57.11:166][921]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.19-11.57.11:166][921]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.19-11.57.11:166][921]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.11.19-11.57.11:166][921]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.11.19-11.57.11:170][921]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.11.19-11.57.11:170][921]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.11.19-11.57.11:170][921]LogInit: FAudioDevice initialized with ID 12.
+[2025.11.19-11.57.11:170][921]LogAudio: Display: Audio Device (ID: 12) registered with world 'InteriorCampanar'.
+[2025.11.19-11.57.11:170][921]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.11.19-11.57.11:174][921]LogStreaming: Display: FlushAsyncLoading(3430): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.19-11.57.11:174][921]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.19-11.57.11:176][921]LogWorld: Bringing World /Game/Maps/UEDPIE_0_InteriorCampanar.InteriorCampanar up for play (max tick rate 0) at 2025.11.19-12.57.11
+[2025.11.19-11.57.11:176][921]LogWorld: Bringing up level for play took: 0.001040
+[2025.11.19-11.57.11:180][921]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.11.19-11.57.11:180][921]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.11.19-11.57.11:183][921]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_FirstPersonCharacter_C]
+[2025.11.19-11.57.11:183][921]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_FirstPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2025.11.19-11.57.11:185][921]PIE: Server logged in
+[2025.11.19-11.57.11:187][921]PIE: Play in editor total start time 0,124 seconds.
+[2025.11.19-11.57.16:341][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.19-11.57.16:341][372]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_InteriorCampanar
+[2025.11.19-11.57.16:341][372]LogWorld: UWorld::CleanupWorld for InteriorCampanar, bSessionEnded=true, bCleanupResources=true
+[2025.11.19-11.57.16:341][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.19-11.57.16:348][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.19-11.57.16:353][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.19-11.57.16:379][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.19-11.57.16:379][372]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.11.19-11.57.16:379][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.11.19-11.57.16:382][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.11.19-11.57.16:388][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.19-11.57.16:391][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.19-11.57.16:498][373]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.11.19-11.57.31:586][546]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.19-11.57.33:067][677]Cmd: DELETE
+[2025.11.19-11.57.33:067][677]Cmd: ACTOR DELETE
+[2025.11.19-11.57.33:070][677]LogEditorActor: Deleted Actor: PlayerStart
+[2025.11.19-11.57.33:096][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.19-11.57.33:098][677]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.11.19-11.57.40:562][364]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.11.19-11.57.40:562][364]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.11.19-11.57.40:565][364]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/InteriorCampanar.InteriorCampanar:PersistentLevel.PlayerStart_0
+[2025.11.19-11.57.40:565][364]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.19-11.57.40:565][364]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/InteriorCampanar.InteriorCampanar:PersistentLevel.PlayerStart_0
+[2025.11.19-11.57.40:565][364]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.19-11.57.40:596][364]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.19-11.57.42:447][521]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.19-11.57.42:458][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.19-11.57.42:458][521]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_InteriorCampanar
+[2025.11.19-11.57.42:461][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002200s)
+[2025.11.19-11.57.42:461][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/InteriorCampanar.InteriorCampanar to /Game/Maps/UEDPIE_0_InteriorCampanar.InteriorCampanar (0.002246s)
+[2025.11.19-11.57.42:485][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.19-11.57.42:487][521]LogChaosDD: Creating Chaos Debug Draw Scene for world InteriorCampanar
+[2025.11.19-11.57.42:489][521]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2025.11.19-11.57.42:490][521]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.11.19-11.57.42:490][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.19-11.57.42:490][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.19-11.57.42:490][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.19-11.57.42:490][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.19-11.57.42:490][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.19-11.57.42:490][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.19-11.57.42:490][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.19-11.57.42:490][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.19-11.57.42:490][521]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.19-11.57.42:490][521]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.19-11.57.42:490][521]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.19-11.57.42:493][521]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.19-11.57.42:532][521]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.11.19-11.57.42:533][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.19-11.57.42:533][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.19-11.57.42:533][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.19-11.57.42:533][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.11.19-11.57.42:533][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.11.19-11.57.42:537][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.11.19-11.57.42:537][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.11.19-11.57.42:537][521]LogInit: FAudioDevice initialized with ID 13.
+[2025.11.19-11.57.42:537][521]LogAudio: Display: Audio Device (ID: 13) registered with world 'InteriorCampanar'.
+[2025.11.19-11.57.42:537][521]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.11.19-11.57.42:541][521]LogStreaming: Display: FlushAsyncLoading(3431): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.19-11.57.42:541][521]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.19-11.57.42:543][521]LogWorld: Bringing World /Game/Maps/UEDPIE_0_InteriorCampanar.InteriorCampanar up for play (max tick rate 0) at 2025.11.19-12.57.42
+[2025.11.19-11.57.42:543][521]LogWorld: Bringing up level for play took: 0.001029
+[2025.11.19-11.57.42:546][521]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.11.19-11.57.42:547][521]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.11.19-11.57.42:549][521]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_FirstPersonCharacter_C]
+[2025.11.19-11.57.42:549][521]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_FirstPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2025.11.19-11.57.42:550][521]PIE: Server logged in
+[2025.11.19-11.57.42:552][521]PIE: Play in editor total start time 0,094 seconds.
+[2025.11.19-11.57.48:931][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.19-11.57.48:932][ 92]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_InteriorCampanar
+[2025.11.19-11.57.48:932][ 92]LogWorld: UWorld::CleanupWorld for InteriorCampanar, bSessionEnded=true, bCleanupResources=true
+[2025.11.19-11.57.48:932][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.19-11.57.48:938][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.19-11.57.48:943][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.19-11.57.48:971][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.19-11.57.48:971][ 92]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.11.19-11.57.48:971][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.11.19-11.57.48:975][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.11.19-11.57.48:984][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.19-11.57.49:068][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.11.19-11.58.04:371][248]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.11.19-11.58.08:585][559]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ASSETS/Maps/LVL1/Interior_Campanar/Cube_035.Cube_035
+[2025.11.19-11.58.08:595][559]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.11.19-11.58.40:721][603]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.19-11.58.40:732][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.19-11.58.40:732][603]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_InteriorCampanar
+[2025.11.19-11.58.40:734][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002111s)
+[2025.11.19-11.58.40:734][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/InteriorCampanar.InteriorCampanar to /Game/Maps/UEDPIE_0_InteriorCampanar.InteriorCampanar (0.002153s)
+[2025.11.19-11.58.40:777][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.19-11.58.40:778][603]LogChaosDD: Creating Chaos Debug Draw Scene for world InteriorCampanar
+[2025.11.19-11.58.40:779][603]LogPlayLevel: PIE: World Init took: (0.001709s)
+[2025.11.19-11.58.40:781][603]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.11.19-11.58.40:781][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.19-11.58.40:781][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.19-11.58.40:781][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.19-11.58.40:781][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.19-11.58.40:781][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.11.19-11.58.40:781][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.19-11.58.40:781][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.11.19-11.58.40:781][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.19-11.58.40:781][603]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.19-11.58.40:781][603]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.19-11.58.40:781][603]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.19-11.58.40:784][603]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.19-11.58.40:823][603]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2025.11.19-11.58.40:824][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.19-11.58.40:824][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.19-11.58.40:824][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.19-11.58.40:824][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.11.19-11.58.40:824][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.11.19-11.58.40:829][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.11.19-11.58.40:829][603]LogInit: FAudioDevice initialized with ID 14.
+[2025.11.19-11.58.40:829][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.11.19-11.58.40:829][603]LogAudio: Display: Audio Device (ID: 14) registered with world 'InteriorCampanar'.
+[2025.11.19-11.58.40:829][603]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.11.19-11.58.40:832][603]LogStreaming: Display: FlushAsyncLoading(3432): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.19-11.58.40:832][603]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.19-11.58.40:834][603]LogWorld: Bringing World /Game/Maps/UEDPIE_0_InteriorCampanar.InteriorCampanar up for play (max tick rate 0) at 2025.11.19-12.58.40
+[2025.11.19-11.58.40:834][603]LogWorld: Bringing up level for play took: 0.001102
+[2025.11.19-11.58.40:837][603]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.11.19-11.58.40:842][603]PIE: Server logged in
+[2025.11.19-11.58.40:843][603]PIE: Play in editor total start time 0,112 seconds.
+[2025.11.19-11.58.48:961][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2447.794434
+[2025.11.19-11.58.49:117][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-11.58.49:117][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2447.941162, Update Interval: 345.647766
+[2025.11.19-11.58.50:957][530]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/FirstPersonMap"
+[2025.11.19-11.58.50:957][530]LogNet: Browse: /Game/Maps/FirstPersonMap
+[2025.11.19-11.58.50:957][530]LogLoad: LoadMap: /Game/Maps/FirstPersonMap
+[2025.11.19-11.58.50:958][530]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_InteriorCampanar
+[2025.11.19-11.58.50:960][530]LogWorld: UWorld::CleanupWorld for InteriorCampanar, bSessionEnded=true, bCleanupResources=true
+[2025.11.19-11.58.50:960][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.19-11.58.51:005][530]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.19-11.58.51:008][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.19-11.58.51:011][530]LogStreaming: Display: FlushAsyncLoading(3433): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.19-11.58.51:019][530]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2025.11.19-11.58.51:019][530]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.11.19-11.58.51:020][530]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.19-11.58.51:020][530]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.19-11.58.51:020][530]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.11.19-11.58.51:020][530]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.19-11.58.51:028][530]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.11.19-11.58.51:043][530]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/Maps/FirstPersonMap (0x308A8431077834B5) that has been renamed to /Game/Maps/UEDPIE_0_FirstPersonMap (0x6BD87B9DBB4B5CD6)
+[2025.11.19-11.58.51:141][530]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 112.670 ms (total: 1.03 sec)
+[2025.11.19-11.58.51:147][530]LogWorldPartition: Display: WorldPartition initialize took 126.065 ms (total: 1.81 sec)
+[2025.11.19-11.58.51:147][530]LogPlayLevel: PIE: World Init took: (0.127904s)
+[2025.11.19-11.58.51:147][530]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.19-11.58.51:156][530]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.11.19-12.58.51
+[2025.11.19-11.58.51:157][530]LogWorld: Bringing up level for play took: 0.009990
+[2025.11.19-11.58.51:161][530]LogLoad: Took 0.203146 seconds to LoadMap(/Game/Maps/FirstPersonMap)
+[2025.11.19-11.58.51:161][530]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/FirstPersonMap
+[2025.11.19-11.58.54:171][828]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Maps/InteriorCampanar"
+[2025.11.19-11.58.54:171][828]LogNet: Browse: /Game/Maps/InteriorCampanar
+[2025.11.19-11.58.54:171][828]LogLoad: LoadMap: /Game/Maps/InteriorCampanar
+[2025.11.19-11.58.54:171][828]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonMap
+[2025.11.19-11.58.54:173][828]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.19-11.58.54:175][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.19-11.58.54:175][828]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.11.19-11.58.54:227][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.19-11.58.54:233][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.19-11.58.54:237][828]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_InteriorCampanar
+[2025.11.19-11.58.54:239][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001960s)
+[2025.11.19-11.58.54:239][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/InteriorCampanar.InteriorCampanar to /Game/Maps/UEDPIE_0_InteriorCampanar.InteriorCampanar (0.002022s)
+[2025.11.19-11.58.54:239][828]LogAudio: Display: Audio Device (ID: 14) registered with world 'InteriorCampanar'.
+[2025.11.19-11.58.54:239][828]LogChaosDD: Creating Chaos Debug Draw Scene for world InteriorCampanar
+[2025.11.19-11.58.54:240][828]LogPlayLevel: PIE: World Init took: (0.001608s)
+[2025.11.19-11.58.54:240][828]LogStreaming: Display: FlushAsyncLoading(3692): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.19-11.58.54:240][828]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.11.19-11.58.54:241][828]LogWorld: Bringing World /Game/Maps/UEDPIE_0_InteriorCampanar.InteriorCampanar up for play (max tick rate 0) at 2025.11.19-12.58.54
+[2025.11.19-11.58.54:241][828]LogWorld: Bringing up level for play took: 0.000853
+[2025.11.19-11.58.54:244][828]LogLoad: Took 0.073312 seconds to LoadMap(/Game/Maps/UEDPIE_0_InteriorCampanar)
+[2025.11.19-11.58.54:244][828]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Maps/UEDPIE_0_InteriorCampanar
+[2025.11.19-11.58.58:042][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.19-11.58.58:042][230]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_InteriorCampanar
+[2025.11.19-11.58.58:042][230]LogWorld: UWorld::CleanupWorld for InteriorCampanar, bSessionEnded=true, bCleanupResources=true
+[2025.11.19-11.58.58:042][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.19-11.58.58:053][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.19-11.58.58:057][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.19-11.58.58:081][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.19-11.58.58:081][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.11.19-11.58.58:081][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.11.19-11.58.58:084][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.11.19-11.58.58:095][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.11.19-11.58.58:202][231]LogPlayLevel: Display: Destroying online subsystem :Context_27
