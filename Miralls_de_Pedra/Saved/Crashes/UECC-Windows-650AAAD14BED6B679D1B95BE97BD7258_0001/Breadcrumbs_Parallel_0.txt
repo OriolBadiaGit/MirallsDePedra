@@ -1,0 +1,8 @@
+Breadcrumbs 'Parallel'
+ - NodeAndClusterCull
+ - PostPass
+ - Nanite::DrawGeometry
+ - Nanite::VisBuffer
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 15771
